@@ -1,0 +1,44 @@
+body{
+    font-size: 2em;
+    background: linear-gradient(to bottom, rgb(94,255,126),rgba(94,255,126,0));
+        font-family: sans-serif;
+    width: 70%;
+    
+}
+.dom{
+    font-weight:900;
+}
+div{
+    display:r ;
+}
+.vog{
+    font-style: oblique;
+}
+a{
+    display: 
+
+}
+.hool {
+    color:red;
+}
+#google {
+    color: red;
+} 
+#container {
+     
+    background-color: blueviolet;
+}
+
+.forfan { 
+    height: 400px; 
+    width: 70%;   
+
+}
+
+.joinus{
+    height:800px;
+    width:70vw ;
+}   
+ .joinus{
+     background: radial-gradient(circle, red ,blue,green)
+ }
